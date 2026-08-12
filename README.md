@@ -74,7 +74,7 @@ IPv4/IPv6 · VLANs · OSPF · EIGRP · ACLs · SNMP · Syslog
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youssefaymanelsersy/youssefaymanelsersy/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+  <img src="https://raw.githubusercontent.com/youssefaymanelsersy/youssefaymanelsersy/main/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
 </p>
 
 <br>
