@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=youssefaymanelsersy&theme=nebula&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=youssefaymanelsersy&theme=nebula&mode=dark" width="100%" alt="Animated profile hero for Youssef Ayman Elsersy" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=youssefaymanelsersy&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=youssefaymanelsersy&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Youssef Ayman Elsersy" />
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=youssefaymanelsersy&theme=nebula&label=Youssef%20Ayman%20Elsersy" width="100%" alt="Animated 3D wordmark for Youssef Ayman Elsersy" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=youssefaymanelsersy&theme=aurora&label=Youssef%20Ayman%20Elsersy" width="100%" alt="Animated 3D wordmark for Youssef Ayman Elsersy" />
 </p>
 
 ## Ship it, then automate it
@@ -25,15 +25,15 @@ TypeScript and Python for the services. Docker and GitHub Actions for getting th
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=youssefaymanelsersy&theme=nebula&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=youssefaymanelsersy&theme=nebula&mode=dark" width="100%" alt="About Youssef Ayman Elsersy" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=youssefaymanelsersy&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=youssefaymanelsersy&theme=aurora&mode=dark" width="100%" alt="About Youssef Ayman Elsersy" />
   </picture>
 </p>
 
 ## Selected Work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=youssefaymanelsersy&theme=nebula" width="100%" alt="Selected projects by Youssef Ayman Elsersy" />
+  <img src="https://www.gitskins.com/api/section/projects?username=youssefaymanelsersy&theme=aurora" width="100%" alt="Selected projects by Youssef Ayman Elsersy" />
 </p>
 
 | Project | What it is |
@@ -52,7 +52,7 @@ TypeScript and Python for the services. Docker and GitHub Actions for getting th
 ## Stack
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=youssefaymanelsersy&theme=nebula" width="100%" alt="Technology stack for Youssef Ayman Elsersy" />
+  <img src="https://www.gitskins.com/api/section/stack?username=youssefaymanelsersy&theme=aurora" width="100%" alt="Technology stack for Youssef Ayman Elsersy" />
 </p>
 
 **DevOps & Cloud** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,7 +66,7 @@ TypeScript and Python for the services. Docker and GitHub Actions for getting th
 ## Signal
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=youssefaymanelsersy&theme=nebula" width="100%" alt="GitHub activity statistics for Youssef Ayman Elsersy" />
+  <img src="https://www.gitskins.com/api/section/stats?username=youssefaymanelsersy&theme=aurora" width="100%" alt="GitHub activity statistics for Youssef Ayman Elsersy" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ TypeScript and Python for the services. Docker and GitHub Actions for getting th
 ## Right now
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=youssefaymanelsersy&theme=nebula&items=Kubernetes::Getting%20comfortable%20orchestrating%20real%20workloads|CI%2FCD::Tightening%20deploy%20pipelines%20with%20GitHub%20Actions|DevSecOps::Baking%20security%20into%20the%20pipeline%2C%20not%20bolting%20it%20on|Backend::Shipping%20type-safe%20services%20in%20TypeScript%20and%20Python" width="100%" alt="Current focus areas for Youssef Ayman Elsersy" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=youssefaymanelsersy&theme=aurora&items=Kubernetes::Getting%20comfortable%20orchestrating%20real%20workloads|CI%2FCD::Tightening%20deploy%20pipelines%20with%20GitHub%20Actions|DevSecOps::Baking%20security%20into%20the%20pipeline%2C%20not%20bolting%20it%20on|Backend::Shipping%20type-safe%20services%20in%20TypeScript%20and%20Python" width="100%" alt="Current focus areas for Youssef Ayman Elsersy" />
 </p>
 
 <p align="center">
